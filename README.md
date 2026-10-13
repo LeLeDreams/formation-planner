@@ -33,13 +33,3 @@ react-konva (stage), Dexie (IndexedDB persistence), Zod (import validation), Vit
 The data model is a `Project` with a stage config, dancers, formations (keyframes with positions
 keyed by dancer id, at a `timeMs`), per-transition easing and per-dancer path overrides, and
 sections. See `src/core/model.ts`. Files are validated and migrated on load (`src/core/schema.ts`).
-
-## Roadmap
-Done: shell/theme/undo-redo, stage canvas (drag, multi-select, marquee, snap + smart guides, onion skin,
-movement paths, crowding warnings, arrange/align/distribute/rotate/scale), formation keyframes with
-auto-keyframing and interpolated playback, video + waveform + loop/speed, autosave, project list,
-save to / open from JSON files, video export (stage + reference video in a corner), sample routine, shortcuts, light/dark.
-
-Not built yet: even-spacing guides, drag handles for curved per-dancer paths, sections UI, dancer view
-with per-dancer instructions, swap/substitute tool, copy/paste of formations, PDF / GIF export,
-performance mode, YouTube links.
