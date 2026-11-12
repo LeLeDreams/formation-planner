@@ -1,0 +1,952 @@
+{
+  "schemaVersion": 2,
+  "id": "proj_c03c1f5f",
+  "name": "Hao Khi Ngan Nam",
+  "createdAt": "2026-10-13T14:52:28.656Z",
+  "updatedAt": "2026-10-13T14:52:28.656Z",
+  "stage": {
+    "width": 40,
+    "depth": 30,
+    "units": "ft",
+    "audienceSide": "bottom",
+    "wingDepth": 6
+  },
+  "media": {
+    "video": {
+      "hash": "859848624-630f6191dd7518e2ed5664fd086eff13b8b2bafc9b27ca3621c74a80888d3930",
+      "name": "HKNN + mashup.mp4",
+      "size": 859848624,
+      "mimeType": "video/mp4",
+      "durationMs": 469972.99299999996
+    }
+  },
+  "dancers": [
+    {
+      "id": "dancer_6d7d922c",
+      "name": "Chloe",
+      "number": 1,
+      "color": "#f7a8c4"
+    },
+    {
+      "id": "dancer_ea3385b8",
+      "name": "Le",
+      "number": 2,
+      "color": "#a8d8f0"
+    },
+    {
+      "id": "dancer_06855f7e",
+      "name": "Taylor",
+      "number": 3,
+      "color": "#b5e5c8"
+    },
+    {
+      "id": "dancer_3b94ebc0",
+      "name": "Sasha",
+      "number": 4,
+      "color": "#fcd3a5"
+    },
+    {
+      "id": "dancer_9d5b7fa6",
+      "name": "Chi",
+      "number": 5,
+      "color": "#cbb8f5"
+    },
+    {
+      "id": "dancer_401e3e7b",
+      "name": "Janelle",
+      "number": 6,
+      "color": "#f6ea9a"
+    },
+    {
+      "id": "dancer_1ac7f778",
+      "name": "Brandon",
+      "number": 7,
+      "color": "#9fe0d6"
+    },
+    {
+      "id": "dancer_a755a907",
+      "name": "Lilac",
+      "number": 8,
+      "color": "#f4b3a8"
+    },
+    {
+      "id": "dancer_6d6e0212",
+      "name": "Isaac",
+      "number": 9,
+      "color": "#b3c3f7"
+    },
+    {
+      "id": "dancer_19fdff0c",
+      "name": "Summer",
+      "number": 10,
+      "color": "#d4e8a0"
+    },
+    {
+      "id": "dancer_c34031ff",
+      "name": "Biya",
+      "number": 11,
+      "color": "#f3b8e6"
+    },
+    {
+      "id": "dancer_27a0b854",
+      "name": "Vic",
+      "number": 12,
+      "color": "#c9d6e3"
+    },
+    {
+      "id": "dancer_10bbb083",
+      "name": "Duy",
+      "number": 13,
+      "color": "#e88fa0"
+    },
+    {
+      "id": "dancer_8def1524",
+      "name": "Say",
+      "number": 14,
+      "color": "#7fc4e8"
+    },
+    {
+      "id": "dancer_3b5a2373",
+      "name": "Saku",
+      "number": 15,
+      "color": "#8fd3a4"
+    }
+  ],
+  "formations": [
+    {
+      "id": "form_0ccb7235",
+      "timeMs": 0,
+      "holdMs": 98860,
+      "label": "",
+      "notes": "",
+      "positions": {
+        "dancer_6d7d922c": {
+          "x": -3.75,
+          "y": 0,
+          "facing": 0,
+          "present": true
+        },
+        "dancer_ea3385b8": {
+          "x": 0,
+          "y": 0,
+          "facing": 0,
+          "present": true
+        },
+        "dancer_06855f7e": {
+          "x": 3.75,
+          "y": 0,
+          "facing": 0,
+          "present": true
+        },
+        "dancer_3b94ebc0": {
+          "x": -7.5,
+          "y": 0,
+          "facing": 0,
+          "present": true
+        },
+        "dancer_9d5b7fa6": {
+          "x": 7.5,
+          "y": 0,
+          "facing": 0,
+          "present": true
+        },
+        "dancer_401e3e7b": {
+          "x": -11.25,
+          "y": 0,
+          "facing": 0,
+          "present": true
+        },
+        "dancer_1ac7f778": {
+          "x": 11.25,
+          "y": 0,
+          "facing": 0,
+          "present": true
+        },
+        "dancer_a755a907": {
+          "x": -15,
+          "y": 0,
+          "facing": 0,
+          "present": true
+        },
+        "dancer_6d6e0212": {
+          "x": 15,
+          "y": 0,
+          "facing": 0,
+          "present": true
+        },
+        "dancer_19fdff0c": {
+          "x": -18.75,
+          "y": 0,
+          "facing": 0,
+          "present": true
+        },
+        "dancer_c34031ff": {
+          "x": 18.75,
+          "y": 0,
+          "facing": 0,
+          "present": true
+        },
+        "dancer_27a0b854": {
+          "x": 0,
+          "y": -3.75,
+          "facing": 0,
+          "present": true
+        },
+        "dancer_10bbb083": {
+          "x": 0,
+          "y": 3,
+          "facing": 0,
+          "present": true
+        },
+        "dancer_8def1524": {
+          "x": -3.75,
+          "y": -3.75,
+          "facing": 0,
+          "present": true
+        },
+        "dancer_3b5a2373": {
+          "x": 3.75,
+          "y": -3.75,
+          "facing": 0,
+          "present": true
+        }
+      }
+    },
+    {
+      "id": "form_0e225ead",
+      "timeMs": 98860,
+      "holdMs": 19419,
+      "label": "",
+      "notes": "",
+      "positions": {
+        "dancer_6d7d922c": {
+          "x": 16,
+          "y": -7,
+          "facing": 0,
+          "present": true
+        },
+        "dancer_ea3385b8": {
+          "x": -8,
+          "y": 8,
+          "facing": 0,
+          "present": true
+        },
+        "dancer_06855f7e": {
+          "x": -10,
+          "y": -2,
+          "facing": 0,
+          "present": true
+        },
+        "dancer_3b94ebc0": {
+          "x": -16,
+          "y": -7,
+          "facing": 0,
+          "present": true
+        },
+        "dancer_9d5b7fa6": {
+          "x": 0,
+          "y": -2,
+          "facing": 0,
+          "present": true
+        },
+        "dancer_401e3e7b": {
+          "x": 5,
+          "y": 3,
+          "facing": 0,
+          "present": true
+        },
+        "dancer_1ac7f778": {
+          "x": 8,
+          "y": 8,
+          "facing": 0,
+          "present": true
+        },
+        "dancer_a755a907": {
+          "x": 13,
+          "y": 3,
+          "facing": 0,
+          "present": true
+        },
+        "dancer_6d6e0212": {
+          "x": -18,
+          "y": 8,
+          "facing": 0,
+          "present": true
+        },
+        "dancer_19fdff0c": {
+          "x": 10,
+          "y": -2,
+          "facing": 0,
+          "present": true
+        },
+        "dancer_c34031ff": {
+          "x": -4,
+          "y": 3,
+          "facing": 0,
+          "present": true
+        },
+        "dancer_27a0b854": {
+          "x": -13,
+          "y": 3,
+          "facing": 0,
+          "present": true
+        },
+        "dancer_10bbb083": {
+          "x": 17,
+          "y": 8,
+          "facing": 0,
+          "present": true
+        },
+        "dancer_8def1524": {
+          "x": 0,
+          "y": 8,
+          "facing": 0,
+          "present": true
+        },
+        "dancer_3b5a2373": {
+          "x": -24,
+          "y": -6,
+          "facing": 0,
+          "present": true
+        }
+      }
+    },
+    {
+      "id": "form_14b3fa9a",
+      "timeMs": 122682,
+      "holdMs": 27373,
+      "label": "",
+      "notes": "",
+      "positions": {
+        "dancer_6d7d922c": {
+          "x": -8,
+          "y": -11,
+          "facing": 0,
+          "present": true
+        },
+        "dancer_ea3385b8": {
+          "x": 16,
+          "y": 7,
+          "facing": 0,
+          "present": true
+        },
+        "dancer_06855f7e": {
+          "x": 5,
+          "y": -2,
+          "facing": 0,
+          "present": true
+        },
+        "dancer_3b94ebc0": {
+          "x": -11,
+          "y": 2,
+          "facing": 0,
+          "present": true
+        },
+        "dancer_9d5b7fa6": {
+          "x": 8,
+          "y": -11,
+          "facing": 0,
+          "present": true
+        },
+        "dancer_401e3e7b": {
+          "x": -17,
+          "y": 7,
+          "facing": 0,
+          "present": true
+        },
+        "dancer_1ac7f778": {
+          "x": 0,
+          "y": 10,
+          "facing": 0,
+          "present": true
+        },
+        "dancer_a755a907": {
+          "x": -15,
+          "y": -5,
+          "facing": 0,
+          "present": true
+        },
+        "dancer_6d6e0212": {
+          "x": 20,
+          "y": 0,
+          "facing": 0,
+          "present": true
+        },
+        "dancer_19fdff0c": {
+          "x": -21,
+          "y": 0,
+          "facing": 0,
+          "present": true
+        },
+        "dancer_c34031ff": {
+          "x": 14,
+          "y": -5,
+          "facing": 0,
+          "present": true
+        },
+        "dancer_27a0b854": {
+          "x": 5,
+          "y": 7,
+          "facing": 0,
+          "present": true
+        },
+        "dancer_10bbb083": {
+          "x": -5,
+          "y": -2,
+          "facing": 0,
+          "present": true
+        },
+        "dancer_8def1524": {
+          "x": 11,
+          "y": 2,
+          "facing": 0,
+          "present": true
+        },
+        "dancer_3b5a2373": {
+          "x": -5,
+          "y": 7,
+          "facing": 0,
+          "present": true
+        }
+      }
+    },
+    {
+      "id": "form_72764add",
+      "timeMs": 137689,
+      "holdMs": 27373,
+      "label": "",
+      "notes": "",
+      "positions": {
+        "dancer_6d7d922c": {
+          "x": -22,
+          "y": -14,
+          "facing": 0,
+          "present": true
+        },
+        "dancer_ea3385b8": {
+          "x": 10,
+          "y": 0,
+          "facing": 0,
+          "present": true
+        },
+        "dancer_06855f7e": {
+          "x": 0,
+          "y": 4,
+          "facing": 0,
+          "present": true
+        },
+        "dancer_3b94ebc0": {
+          "x": -24,
+          "y": -6,
+          "facing": 0,
+          "present": true
+        },
+        "dancer_9d5b7fa6": {
+          "x": 23,
+          "y": -1,
+          "facing": 0,
+          "present": true
+        },
+        "dancer_401e3e7b": {
+          "x": -24,
+          "y": 3,
+          "facing": 0,
+          "present": true
+        },
+        "dancer_1ac7f778": {
+          "x": 3,
+          "y": -7,
+          "facing": 0,
+          "present": true
+        },
+        "dancer_a755a907": {
+          "x": -10,
+          "y": 0,
+          "facing": 0,
+          "present": true
+        },
+        "dancer_6d6e0212": {
+          "x": 6,
+          "y": 8,
+          "facing": 0,
+          "present": true
+        },
+        "dancer_19fdff0c": {
+          "x": -22,
+          "y": 7,
+          "facing": 0,
+          "present": true
+        },
+        "dancer_c34031ff": {
+          "x": 15,
+          "y": 8,
+          "facing": 0,
+          "present": true
+        },
+        "dancer_27a0b854": {
+          "x": 23,
+          "y": -8,
+          "facing": 0,
+          "present": true
+        },
+        "dancer_10bbb083": {
+          "x": -3,
+          "y": -7,
+          "facing": 0,
+          "present": true
+        },
+        "dancer_8def1524": {
+          "x": -15,
+          "y": 8,
+          "facing": 0,
+          "present": true
+        },
+        "dancer_3b5a2373": {
+          "x": -6,
+          "y": 8,
+          "facing": 0,
+          "present": true
+        }
+      }
+    },
+    {
+      "id": "form_915e8ec3",
+      "timeMs": 152727,
+      "holdMs": 19069,
+      "label": "",
+      "notes": "",
+      "positions": {
+        "dancer_6d7d922c": {
+          "x": -5,
+          "y": 0,
+          "facing": 0,
+          "present": true
+        },
+        "dancer_ea3385b8": {
+          "x": -27,
+          "y": -17.5,
+          "facing": 0,
+          "present": true
+        },
+        "dancer_06855f7e": {
+          "x": -15.5,
+          "y": -15,
+          "facing": 0,
+          "present": true
+        },
+        "dancer_3b94ebc0": {
+          "x": 0,
+          "y": 7,
+          "facing": 0,
+          "present": true
+        },
+        "dancer_9d5b7fa6": {
+          "x": 5,
+          "y": 0,
+          "facing": 0,
+          "present": true
+        },
+        "dancer_401e3e7b": {
+          "x": -10,
+          "y": 7,
+          "facing": 0,
+          "present": true
+        },
+        "dancer_1ac7f778": {
+          "x": -19.25,
+          "y": -15,
+          "facing": 0,
+          "present": true
+        },
+        "dancer_a755a907": {
+          "x": -23,
+          "y": -6,
+          "facing": 0,
+          "present": true
+        },
+        "dancer_6d6e0212": {
+          "x": -23,
+          "y": -18.75,
+          "facing": 0,
+          "present": true
+        },
+        "dancer_19fdff0c": {
+          "x": 10,
+          "y": 7,
+          "facing": 0,
+          "present": true
+        },
+        "dancer_c34031ff": {
+          "x": 25,
+          "y": -13,
+          "facing": 0,
+          "present": true
+        },
+        "dancer_27a0b854": {
+          "x": 25,
+          "y": -7,
+          "facing": 0,
+          "present": true
+        },
+        "dancer_10bbb083": {
+          "x": -19.25,
+          "y": -6,
+          "facing": 0,
+          "present": true
+        },
+        "dancer_8def1524": {
+          "x": -15.5,
+          "y": -18.75,
+          "facing": 0,
+          "present": true
+        },
+        "dancer_3b5a2373": {
+          "x": -26,
+          "y": 3,
+          "facing": 0,
+          "present": true
+        }
+      }
+    },
+    {
+      "id": "form_84fd5006",
+      "timeMs": 168424,
+      "holdMs": 33752,
+      "label": "",
+      "notes": "",
+      "positions": {
+        "dancer_6d7d922c": {
+          "x": 0,
+          "y": 8,
+          "facing": 0,
+          "present": true
+        },
+        "dancer_ea3385b8": {
+          "x": 0,
+          "y": 4,
+          "facing": 0,
+          "present": true
+        },
+        "dancer_06855f7e": {
+          "x": -13,
+          "y": 4,
+          "facing": 0,
+          "present": true
+        },
+        "dancer_3b94ebc0": {
+          "x": 7,
+          "y": 0,
+          "facing": 0,
+          "present": true
+        },
+        "dancer_9d5b7fa6": {
+          "x": -7,
+          "y": 0,
+          "facing": 0,
+          "present": true
+        },
+        "dancer_401e3e7b": {
+          "x": -13,
+          "y": 7,
+          "facing": 0,
+          "present": true
+        },
+        "dancer_1ac7f778": {
+          "x": 7,
+          "y": -3,
+          "facing": 0,
+          "present": true
+        },
+        "dancer_a755a907": {
+          "x": -22,
+          "y": -9,
+          "facing": 0,
+          "present": true
+        },
+        "dancer_6d6e0212": {
+          "x": -22,
+          "y": -3,
+          "facing": 0,
+          "present": true
+        },
+        "dancer_19fdff0c": {
+          "x": 14,
+          "y": 7,
+          "facing": 0,
+          "present": true
+        },
+        "dancer_c34031ff": {
+          "x": 22,
+          "y": -11,
+          "facing": 0,
+          "present": true
+        },
+        "dancer_27a0b854": {
+          "x": 14,
+          "y": 4,
+          "facing": 0,
+          "present": true
+        },
+        "dancer_10bbb083": {
+          "x": -23,
+          "y": -13,
+          "facing": 0,
+          "present": true
+        },
+        "dancer_8def1524": {
+          "x": -7,
+          "y": -3,
+          "facing": 0,
+          "present": true
+        },
+        "dancer_3b5a2373": {
+          "x": -26,
+          "y": 3,
+          "facing": 0,
+          "present": true
+        }
+      }
+    },
+    {
+      "id": "form_9a4de454",
+      "timeMs": 183590,
+      "holdMs": 13035,
+      "label": "",
+      "notes": "",
+      "positions": {
+        "dancer_6d7d922c": {
+          "x": 23,
+          "y": 13,
+          "facing": 0,
+          "present": true
+        },
+        "dancer_ea3385b8": {
+          "x": 23,
+          "y": 9,
+          "facing": 0,
+          "present": true
+        },
+        "dancer_06855f7e": {
+          "x": -23,
+          "y": 1,
+          "facing": 0,
+          "present": true
+        },
+        "dancer_3b94ebc0": {
+          "x": 22,
+          "y": -7,
+          "facing": 0,
+          "present": true
+        },
+        "dancer_9d5b7fa6": {
+          "x": -21,
+          "y": -3,
+          "facing": 0,
+          "present": true
+        },
+        "dancer_401e3e7b": {
+          "x": -23,
+          "y": 4,
+          "facing": 0,
+          "present": true
+        },
+        "dancer_1ac7f778": {
+          "x": 22,
+          "y": -10,
+          "facing": 0,
+          "present": true
+        },
+        "dancer_a755a907": {
+          "x": -22,
+          "y": -9,
+          "facing": 0,
+          "present": true
+        },
+        "dancer_6d6e0212": {
+          "x": 9,
+          "y": 0,
+          "facing": 0,
+          "present": true
+        },
+        "dancer_19fdff0c": {
+          "x": 25,
+          "y": 2,
+          "facing": 0,
+          "present": true
+        },
+        "dancer_c34031ff": {
+          "x": -16,
+          "y": -12,
+          "facing": 0,
+          "present": true
+        },
+        "dancer_27a0b854": {
+          "x": 25,
+          "y": -1,
+          "facing": 0,
+          "present": true
+        },
+        "dancer_10bbb083": {
+          "x": -20,
+          "y": -13,
+          "facing": 0,
+          "present": true
+        },
+        "dancer_8def1524": {
+          "x": -21,
+          "y": -6,
+          "facing": 0,
+          "present": true
+        },
+        "dancer_3b5a2373": {
+          "x": -9,
+          "y": 0,
+          "facing": 0,
+          "present": true
+        }
+      }
+    },
+    {
+      "id": "form_75a442b3",
+      "timeMs": 199997,
+      "holdMs": 33752,
+      "label": "",
+      "notes": "",
+      "positions": {
+        "dancer_6d7d922c": {
+          "x": 7,
+          "y": -1,
+          "facing": 0,
+          "present": true
+        },
+        "dancer_ea3385b8": {
+          "x": 0,
+          "y": 3,
+          "facing": 0,
+          "present": true
+        },
+        "dancer_06855f7e": {
+          "x": -5,
+          "y": 7,
+          "facing": 0,
+          "present": true
+        },
+        "dancer_3b94ebc0": {
+          "x": 5,
+          "y": 7,
+          "facing": 0,
+          "present": true
+        },
+        "dancer_9d5b7fa6": {
+          "x": -8,
+          "y": -1,
+          "facing": 0,
+          "present": true
+        },
+        "dancer_401e3e7b": {
+          "x": -16,
+          "y": 7,
+          "facing": 0,
+          "present": true
+        },
+        "dancer_1ac7f778": {
+          "x": 4,
+          "y": -6,
+          "facing": 0,
+          "present": true
+        },
+        "dancer_a755a907": {
+          "x": 0,
+          "y": -3,
+          "facing": 0,
+          "present": true
+        },
+        "dancer_6d6e0212": {
+          "x": -4,
+          "y": -6,
+          "facing": 0,
+          "present": true
+        },
+        "dancer_19fdff0c": {
+          "x": 15,
+          "y": 7,
+          "facing": 0,
+          "present": true
+        },
+        "dancer_c34031ff": {
+          "x": 11,
+          "y": 3,
+          "facing": 0,
+          "present": true
+        },
+        "dancer_27a0b854": {
+          "x": 19,
+          "y": -1,
+          "facing": 0,
+          "present": true
+        },
+        "dancer_10bbb083": {
+          "x": -19,
+          "y": -1,
+          "facing": 0,
+          "present": true
+        },
+        "dancer_8def1524": {
+          "x": -12,
+          "y": 3,
+          "facing": 0,
+          "present": true
+        },
+        "dancer_3b5a2373": {
+          "x": -24,
+          "y": -5,
+          "facing": 0,
+          "present": true
+        }
+      }
+    }
+  ],
+  "transitions": [
+    {
+      "fromFormationId": "form_0e225ead",
+      "easing": "easeInOut",
+      "perDancer": {}
+    },
+    {
+      "fromFormationId": "form_14b3fa9a",
+      "easing": "easeInOut",
+      "perDancer": {}
+    },
+    {
+      "fromFormationId": "form_915e8ec3",
+      "easing": "easeInOut",
+      "perDancer": {}
+    },
+    {
+      "fromFormationId": "form_84fd5006",
+      "easing": "easeInOut",
+      "perDancer": {}
+    },
+    {
+      "fromFormationId": "form_9a4de454",
+      "easing": "easeInOut",
+      "perDancer": {}
+    },
+    {
+      "fromFormationId": "form_75a442b3",
+      "easing": "easeInOut",
+      "perDancer": {}
+    },
+    {
+      "fromFormationId": "form_72764add",
+      "easing": "easeInOut",
+      "perDancer": {}
+    }
+  ],
+  "sections": [],
+  "settings": {
+    "minDistance": 2.5,
+    "snapToGrid": true,
+    "gridSize": 1
+  }
+}
